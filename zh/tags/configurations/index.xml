@@ -489,7 +489,7 @@
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="content-management">Content Management&lt;/h2>
 &lt;p>If you create a new posts, it is recommended to fill the configuration which means:&lt;/p>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>title:
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>date: {{ Date }}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>date: {{ .Date }}
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>tags: []
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>series: []
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>featured: true
