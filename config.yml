@@ -38,7 +38,7 @@ params:
   avatarURL: /images/avatar.png
   author: Hugo Ladder
   authorDescription: A clean, fast hugo theme focused on Reading
-  info: Ladder is a clean, simple but beautiful theme with awesome features
+  info: 笑口常开，好彩自然来。
   favicon: /images/avatar.png
   options:
     showDarkMode: true
