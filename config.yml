@@ -5,7 +5,7 @@ theme: hugo-theme-ladder
 # licenselink: 'https://github.com/guangzhengli/hugo-theme-ladder/blob/master/LICENSE'
 description: 'A fast, clean Hugo theme'
 homepage: 'https://punchlion.github.io/'
-defaultContentLanguage: 'en'
+defaultContentLanguage: 'zh'
 googleAnalytics: G-4WXJ5TEK2S
 paginate: 10
 hasCJKLanguage: true
