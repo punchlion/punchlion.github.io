@@ -310,7 +310,7 @@ If you create a new posts, it is recommended to fill the configuration which mea
 
 ```markdown
 title: 
-date: {{ Date }}
+date: {{ .Date }}
 tags: []
 series: []
 featured: true
