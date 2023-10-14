@@ -1,8 +1,8 @@
 baseURL: 'https://punchlion.github.io/'
 title: LADDER
 theme: hugo-theme-ladder
-license: MIT
-licenselink: 'https://github.com/guangzhengli/hugo-theme-ladder/blob/master/LICENSE'
+# license: MIT
+# licenselink: 'https://github.com/guangzhengli/hugo-theme-ladder/blob/master/LICENSE'
 description: 'A fast, clean Hugo theme'
 homepage: 'https://punchlion.github.io/'
 defaultContentLanguage: 'en'
