@@ -37,7 +37,7 @@ params:
   brand: HOME
   avatarURL: /images/avatar.png
   author: 凉水东
-  authorDescription: A clean, fast hugo theme focused on Reading
+  authorDescription: 展示某个时刻的自我，用以吸引同频的人。
   info: 笑口常开，好彩自然来。
   favicon: /images/avatar.png
   options:
