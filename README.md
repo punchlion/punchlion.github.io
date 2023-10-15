@@ -3,7 +3,7 @@
 在终端命令行输入，xxx为文件名（默认同文章标题）
 
 ```
-hugo new comtent/blog/xxx.md
+hugo new content/blog/xxx.md
 ```
 
 提交代码（使用vscode的源代码管理），或输入命令，xxx为提交注释
