@@ -6,7 +6,7 @@ theme: hugo-theme-ladder
 description: 'A fast, clean Hugo theme'
 homepage: 'https://punchlion.github.io/'
 defaultContentLanguage: 'zh'
-googleAnalytics: G-4WXJ5TEK2S
+# googleAnalytics: G-4WXJ5TEK2S
 paginate: 10
 hasCJKLanguage: true
 copyright: "2023 GuangzhengLi All rights reserved"
