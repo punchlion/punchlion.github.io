@@ -1,15 +1,15 @@
-## how to install
+## how to post now blog
 
-Just click `Use this template` to create your blog site by 
+在终端命令行输入，xxx为文件名（默认同文章标题）
 
-![4dmtph](https://cdn.jsdelivr.net/gh/guangzhengli/PicURL@master/uPic/4dmtph.png)
+```
+hugo new comtent/blog/xxx.md
+```
 
-Create a new repository(GitHub Pages) from hugo-ladder-exampleSite to enter : `username.github.io`.
+提交代码（使用vscode的源代码管理），或输入命令，xxx为提交注释
 
-> **replace the username by your GitHub account**
-
-Then configure the GitHub page setting following:
-
-![nsrExo](https://cdn.jsdelivr.net/gh/guangzhengli/PicURL@master/uPic/nsrExo.png)
-
-🎉🎉🎉 Open the browser and enter: https://username.github.io 🎉🎉🎉
+```
+git add .
+git commit -m "xxx"
+git push origin master
+```

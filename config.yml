@@ -27,12 +27,12 @@ menu:
     - name: Archive
       url: /archives
       weight: 4
-    - name: Guest
-      url: /guestbook
-      weight: 5
-    - name: Monitor
-      url: https://umami-ochre-nu.vercel.app/share/o3zAba1V/guangzhengli
-      weight: 6
+    # - name: Guest
+    #   url: /guestbook
+    #   weight: 5
+    # - name: Monitor
+    #   url: https://umami-ochre-nu.vercel.app/share/o3zAba1V/guangzhengli
+    #   weight: 6
 params:
   brand: HOME
   avatarURL: /images/avatar.png
