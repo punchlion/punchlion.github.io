@@ -1,6 +1,6 @@
 baseURL: 'https://punchlion.live/'
 title: 凉水东
-theme: 东子的自恋空间
+theme: hugo-theme-ladder
 # license: MIT
 # licenselink: 'https://github.com/guangzhengli/hugo-theme-ladder/blob/master/LICENSE'
 description: 'A fast, clean Hugo theme'
